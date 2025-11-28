@@ -1,0 +1,18 @@
+# Core dependencies
+langgraph>=0.0.20
+langchain-openai>=0.0.5
+langchain-core>=0.1.0
+python-dotenv>=1.0.0
+
+# Backend
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+
+# Frontend
+streamlit>=1.30.0
+requests>=2.31.0
+
+# Jupyter (for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.28.0
